@@ -42,6 +42,8 @@ INSTALLED_APPS = [
 
     'rest_framework',
     "corsheaders",
+    "django-filters"
+    "storages"
 ]
 
 AUTH_USER_MODEL = 'base.User'
