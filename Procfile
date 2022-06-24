@@ -1,1 +1,1 @@
-web: gunicorn base.wsgi --log-file -
+web:node server.js
